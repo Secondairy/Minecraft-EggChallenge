@@ -49,3 +49,5 @@ I'm just one dude - I don't want to time/retime several runs. You can make as ma
 
 ## Download
 [Download the mod here](https://github.com/Secondairy/Minecraft-EggChallenge/releases/latest)
+
+Source code will be available after the conclusion of the challenge.
