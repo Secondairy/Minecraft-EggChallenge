@@ -14,4 +14,4 @@ This provides a unique challenge in a few different circumstances, such as:
 ## Download
 [Download the mod here](https://github.com/Secondairy/Minecraft-EggChallenge/releases/latest)
 
-Source code will be available after the conclusion of the challenge.
+Source code will be available [Here](https://github.com/Secondairy/EggChallenge).
