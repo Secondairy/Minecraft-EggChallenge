@@ -1,17 +1,5 @@
 # Secondairy's Minecraft Speedrun EggChallenge
 
----
-
-## Run Submission
-
-Runs can be submitted here: https://forms.gle/8waXJ4US81CXWgsp7
-
-You can submit multiple runs if you get a faster time. Submissions are open NOW and will close on Monday 28th of May 11PM UTC, to see what time this is in other common timezones, click here: https://www.worldtimebuddy.com/?qm=1&lid=100,2147714,7,8,6,1816670,2643743,2988507&h=100&date=2023-5-28&sln=22-23&hf=1
-
-Winners will be announced by the end of the same week on [my twitter](twitter.com/2econdairy), and be contacted individually to receive their share of the prize pool.
-
----
-
 ## Format Information
 
 The format of this challenge is RSG Any%, with an egg permanently placed in your offhand. A run is invalidated if the egg is ever thrown at any point.
