@@ -27,14 +27,6 @@ I'm just one dude - I don't want to time/retime several runs. You can make as ma
 
 5. If you are among the winners, you must have a supported method for receiving the prizes (PayPal, Bank Transfer). Unfortunately because I live in Australia, CashApp/Venmo and similar are not available, so I can't support these. 
     
----
-    
-## Prize Pool
-
-- 1st Place Prize - $50
-- 2nd Place Prize - $30
-- 3rd Place Prize - $20
-
 ## Download
 [Download the mod here](https://github.com/Secondairy/Minecraft-EggChallenge/releases/latest)
 
