@@ -8,7 +8,6 @@ This provides a unique challenge in a few different circumstances, such as:
 
 - Using your offhand at all is not possible
 - Eating food is slightly more tedious
-- Drinking potions is near impossible
 - Mis-hotkeying can be deadly
 - Probably others that I am not considering
    
